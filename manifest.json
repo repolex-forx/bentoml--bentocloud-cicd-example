@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "bentoml",
+  "repo": "bentocloud-cicd-example",
+  "versions": [
+    {
+      "commit": "fc2f6060188e71fc2b89caf20e37ce735d5a486e",
+      "parsed_at": "2026-11-08T03:17:34.568416+00:00",
+      "filetree": "filetree/fc2f6060188e71fc2b89caf20e37ce735d5a486e.nq.gz",
+      "blobs": [
+        "blob/b94f695f2e8df8c4ab323952a264971921c41ec6.nq.gz",
+        "blob/39ed765ae6deb07c606c21698cedcb766be9a7a7.nq.gz",
+        "blob/7b29e5d7bf03b750970e8772e1827154a894fbd8.nq.gz",
+        "blob/75e00de4e35b816d36d72c174d8d29e275b8b446.nq.gz",
+        "blob/6769e21d99a63338394e47bc4c7d0aba1e88d5a5.nq.gz",
+        "blob/d89a50ec12c89cd7076cfd0ae5c9b29bba8f89d6.nq.gz",
+        "blob/9a1d7936fa25cbeff11ef64ef45b20ef2672d563.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
