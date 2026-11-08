@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "bentocloud-cicd-example",
+  "versions": [
+    {
+      "commit": "fc2f6060188e71fc2b89caf20e37ce735d5a486e",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:19:42.783703+00:00"
+    }
+  ]
+}
